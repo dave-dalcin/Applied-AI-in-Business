@@ -16,6 +16,14 @@ The analysis combines RFM (Recency, Frequency, Monetary) customer segmentation w
 
 An interactive dashboard was also developed in Google Data Studio to present the main customer, segment, value, and geographic insights.
 
+## Main Notebook
+
+The complete analysis, including data preparation, exploratory analysis, RFM segmentation, K-Means clustering, dashboard validation, marketing recommendations, and implementation planning, is available in the main Jupyter Notebook:
+
+### ➜ [Open the complete analysis notebook](notebooks/Applied_AI_in_Business_Online_Retail.ipynb)
+
+Click the link above to view the notebook directly on GitHub, including the code, analytical explanations, tables, and visualisations.
+
 ## Project Structure
 
 ```text
@@ -142,9 +150,9 @@ The exported file contains 4,338 customer-level records and is used as the data 
 
 ## Interactive Dashboard
 
-The final interactive customer segmentation dashboard is available at:
+The final interactive customer segmentation dashboard can be accessed directly below:
 
-https://datastudio.google.com/reporting/324f4900-d9ae-4bcd-a2e3-67e738de0c4f/page/K105F
+### ➜ [Open the Interactive Customer Segmentation Dashboard](https://datastudio.google.com/reporting/324f4900-d9ae-4bcd-a2e3-67e738de0c4f/page/K105F)
 
 The dashboard focuses on the six RFM customer segments and supports interactive analysis by segment, market, and country.
 
